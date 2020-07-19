@@ -1,0 +1,1 @@
+HW specification of EasyBright project. Includes STL files for 3D printer, electrical wiring of components and links to these components.
